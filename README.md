@@ -1,4 +1,4 @@
-# GQ JavaScript Workshop (gq-js-workshop)
+# GQ JavaScript Workshop
 
 ## Overview
 
