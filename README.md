@@ -60,7 +60,7 @@ gq-js-workshop/
 - **Node.js 18+** (recommended)
 - A code editor (VS Code suggested)
 
-## Getting started (quick)
+## Getting started
 
 <p align="justify">Run an exercise with Node:</p>
 
@@ -68,11 +68,10 @@ gq-js-workshop/
 node phase-01/exercise-01.js
 ```
 
-## Working rules (recommended)
+## Working rules
 
 - Prefer **pure functions** (inputs → output) unless the exercise explicitly requires I/O.
 - Avoid external libraries.
-- Add a small self-check block at the end of each file using `console.assert(...)` or simple `console.log(...)`.
 - Keep naming consistent: `exercise-01.js`, `exercise-02.js`, etc.
 
 ## Docs per phase
